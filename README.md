@@ -31,6 +31,7 @@ This project explores the Netflix catalog using Power BI, providing insights int
 
 ## Preview
 
-![Netflix Dashboard](Netflix Dashboard preview.JPG)
+![Netflix Dashboard Preview](Netflix%20Dashboard%20preview.JPG)
+
 
 
