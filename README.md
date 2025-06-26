@@ -29,3 +29,8 @@ This project explores the Netflix catalog using Power BI, providing insights int
 - Power BI Desktop
 - Dataset from [Kaggle Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
+## Preview
+
+![Netflix Dashboard](Netflix Dashboard preview.JPG)
+
+
